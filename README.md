@@ -19,15 +19,19 @@
 
 ## 👨‍💻 About me
 
-- I'm a mid-level (semi-senior) freelance full-stack **software engineer** from Ecuador. I currently work mainly with **Nest.js (backend)** and **Angular (frontend)**, and I have experience with **.NET**, microservices, gRPC, clean architecture and domain-driven design, focusing on **backend** and **distributed systems**.
+- I'm a mid-level (semi-senior) freelance full-stack **software engineer** from Ecuador.  
+I focus on backend with **.NET and NestJS** and frontend with **Angular**, building distributed systems with **microservices** and **gRPC**.
 
-- I enjoy building real-world projects like **hospital systems, fuel control platforms and inventory management**, always trying to keep the code clean, modular and scalable.
+- Over the last years I've worked on personal, academic and freelance projects such as **hospital management prototypes, fuel control platforms and inventory systems**, always trying to keep the code clean, modular and scalable.
+
+- Currently I'm working as a freelance Full-Stack Software Developer for **Juvo Systems**, helping build distributed **point-of-sale (POS) and business management web applications** for restaurants and other businesses.
 
 - On the frontend side I'm working with **Angular** at work and **React / Next.js + TypeScript** in personal projects, applying good practices, design systems and clean folder structures.
 
 - I like experimenting with **DevOps & automation**: Docker, Kubernetes (learning), CI/CD, Azure DevOps, and tools like **Supabase** and **n8n** to connect services and workflows.
 
 - Besides coding, I’m interested in how **technology, education and healthcare** can work together to solve real problems.
+
 
 <br/>
 
